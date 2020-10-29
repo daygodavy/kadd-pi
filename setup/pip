@@ -1,0 +1,6 @@
+adafruit-blinka
+adafruit-circuitpython-gps
+adafruit-circuitpython-lsm9ds1
+
+google-cloud-firestore
+firebase-admin

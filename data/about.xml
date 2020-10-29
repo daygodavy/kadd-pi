@@ -1,0 +1,23 @@
+<?xml version="1.0" ?><kaddpi>
+    <devId></devId>
+    <uid></uid>
+    <phone></phone>
+    <manufacturer/>
+    <model></model>
+    <serial></serial>
+    
+    <geofenceLat/>
+    <geofenceLong/>
+    <geofenceRadius/>
+    
+    <mode>0</mode>
+    <gpsSampRate>15</gpsSampRate>
+    <imuSampRate>1</imuSampRate>
+    <crashTimerThreshold>30</crashTimerThreshold>
+    
+    <coneMinAccel>-11</coneMinAccel>
+    <coneMaxAccel>-1</coneMaxAccel>
+    <coneSensitivity>2.5</coneSensitivity>
+    
+    <keyfobGpio>23</keyfobGpio>
+</kaddpi>

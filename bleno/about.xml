@@ -1,0 +1,22 @@
+<kaddpi>
+    <devId></devId>
+    <uid></uid>
+    <phone></phone>
+    <manufacturer></manufacturer>
+    <model></model>
+    <serial></serial>
+    
+    <geofenceLat></geofenceLat>
+    <geofenceLong></geofenceLong>
+    <geofenceRadius></geofenceRadius>
+    
+    <mode></mode>
+    <gpsSampRate></gpsSampRate>
+    <imuSampRate></imuSampRate>
+    <crashTimerThreshold></crashTimerThreshold>
+    
+    <coneMinAccel></coneMinAccel>
+    <coneMaxAccel></coneMaxAccel>
+    <coneSensitivity></coneSensitivity>
+</kaddpi>
+
